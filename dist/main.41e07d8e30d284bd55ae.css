@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url(03523cf578d69fa923226ff457b92d90.ttf) format('truetype');
+}
+body {
+  font-family: 'Roboto', sans-serif
+}
+
+.container {
+  padding-top: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.logo {
+  background-image: url(d54312c4af5e2911d62016c88971259a.jpg);
+  background-size: cover;
+  width: 500px;
+  height: 500px;
+}
+.box {
+  padding: 1rem;
+  border: 1px solid black;
+}
+
+.card {
+  padding: 1rem;
+  border: 1px solid red; }
+
